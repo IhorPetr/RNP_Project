@@ -94,6 +94,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Infrastucture\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
