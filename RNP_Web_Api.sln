@@ -27,7 +27,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Front_end", "http://localho
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesMysq", "EntitiesMysq\EntitiesMysq.csproj", "{EE143433-2162-491A-AB3F-69291FD322AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesMysql", "EntitiesMysq\EntitiesMysql.csproj", "{EE143433-2162-491A-AB3F-69291FD322AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWebApi", "UnitTestWebApi\UnitTestWebApi.csproj", "{1A7113D8-E1BE-454F-9FDC-FB6018C6D316}"
 EndProject

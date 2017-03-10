@@ -97,6 +97,12 @@
     <Folder Include="Infrastucture\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntitiesMysq\EntitiesMysql.csproj">
+      <Project>{ee143433-2162-491a-ab3f-69291fd322ac}</Project>
+      <Name>EntitiesMysql</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
