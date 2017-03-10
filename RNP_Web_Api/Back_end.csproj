@@ -98,8 +98,8 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EntitiesMysq\EntitiesMysql.csproj">
-      <Project>{ee143433-2162-491a-ab3f-69291fd322ac}</Project>
+    <ProjectReference Include="..\EntitiesMysql\EntitiesMysql.csproj">
+      <Project>{dbb60a9b-76ff-4288-acf7-7e41bbf93804}</Project>
       <Name>EntitiesMysql</Name>
     </ProjectReference>
   </ItemGroup>
